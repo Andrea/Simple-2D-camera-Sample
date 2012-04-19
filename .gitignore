@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 obj
 bin
 *.user
@@ -14,11 +14,3 @@ _ReSharper.*
 *.cache
 *.dotCover
 ~$*
-=======
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
-TestResults
->>>>>>> 0d138f18b9cc09155e18571554b1e6ab327ff821
